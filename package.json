@@ -1,0 +1,21 @@
+{
+  "name": "budgetapp",
+  "version": "1.0.0",
+  "description": "calculate expense",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ogger77/budgetApp.git"
+  },
+  "keywords": [
+  ],
+  "author": "Dinh Vu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ogger77/budgetApp/issues"
+  },
+  "homepage": "https://github.com/Ogger77/budgetApp#readme"
+}
