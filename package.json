@@ -1,0 +1,11 @@
+{
+  "name": "budgetapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Dinh Vu",
+  "license": "ISC"
+}
