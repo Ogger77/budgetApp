@@ -4,14 +4,9 @@
   "description": "calculate expense",
   "main": "index.js",
   "scripts": {
-    "dev": "npm start"
+    "dev": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ogger77/budgetApp.git"
-  },
-  "keywords": [
-  ],
+  
   "author": "Dinh Vu",
   "license": "ISC",
   "bugs": {
